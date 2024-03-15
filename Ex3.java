@@ -39,9 +39,9 @@ public class Ex3 {
         System.out.println("--------------------------\n\n");
         System.out.printf("%d\n", i);
         System.out.printf("Aluno(a) de matricula %05d\n", matricula[i][0]);
-        System.out.printf("Aluno(a) de matricula %05d\n", name[i][0]);
+        System.out.printf("Aluno(a) de matricula %s\n", name[i][0]);
         for (int j = 0; j < matricula.length; j++) {
-            System.out.printf("Esta é a %d° nota do Aluno(a): %.2f", (j+1), nota[i][j]);
+            System.out.printf("Esta é a %d° nota do Aluno(a): %.2f\n", (j+1), nota[i][j]);
         }
     }
     }

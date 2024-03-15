@@ -8,6 +8,7 @@ class Console{
         FirstExercise.Print();
         //Exercise2
         System.out.println("-------------/Exercise 2/-------------");
+        //Bug info on both Ex2 and Ex3, when you input Double values, even though the Nota variables are doubles, it still reads as an integer. So for some reason this is not working correctly
         SecondExercise.Input();
         SecondExercise.Print();
         //Exercise2

@@ -10,5 +10,9 @@ class Console{
         System.out.println("-------------/Exercise 2/-------------");
         SecondExercise.Input();
         SecondExercise.Print();
+        //Exercise2
+        System.out.println("-------------/Exercise 3/-------------");
+        ThirdExercise.Input();
+        ThirdExercise.Print();        
     }
 }

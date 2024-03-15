@@ -1,5 +1,5 @@
 public class Ex1 {
-    void PrintEx1(){
+    void Print(){
         //On this exercise our goal is to create an program that process the following data
         int matricula = 1;
         String name = "Katsu Mouley";

@@ -5,6 +5,10 @@ class Console{
         Ex3 ThirdExercise = new Ex3();
         //Exercise 1
         System.out.println("-------------/Exercise 1/-------------");
-        FirstExercise.PrintEx1();
+        FirstExercise.Print();
+        //Exercise2
+        System.out.println("-------------/Exercise 2/-------------");
+        SecondExercise.Input();
+        SecondExercise.Print();
     }
 }
